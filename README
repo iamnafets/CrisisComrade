@@ -1,0 +1,3 @@
+Crisis Comrade
+===============================
+Crisis Comrade is a shift sharing application for a crisis line. The intent is both to offer the capability to track substitutions end-to-end and to solve for "transitive trades" where A -> B -> C back to A. By asking for potential shifts upfront, the fan-out of sub requests can be relieved and this paves the way for "karma" to encourage community participation.
